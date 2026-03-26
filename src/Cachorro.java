@@ -1,4 +1,5 @@
-package PACKAGE_NAME;
-
-public class Cachorro {
+public class Cachorro extends Animal{
+    public void fazerSom(){
+        System.out.println("AUAU");
+    }
 }
