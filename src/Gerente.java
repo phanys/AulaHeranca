@@ -1,4 +1,5 @@
-package PACKAGE_NAME;
+public class Gerente extends Funcionario {
 
-public class Gerente {
+    double bonus;
+
 }
