@@ -1,4 +1,5 @@
-package PACKAGE_NAME;
+public class ContaCorrente extends ContaBancaria {
 
-public class ContaCorrente {
+    double limiteCredito;
+
 }
