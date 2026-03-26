@@ -1,4 +1,4 @@
-package PACKAGE_NAME;
+public class Estagiario extends Funcionario{
 
-public class Estagiario {
+    double cargaHoraria;
 }
