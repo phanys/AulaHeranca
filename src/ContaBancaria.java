@@ -1,2 +1,5 @@
-public class ContaBancara {
+public class ContaBancaria {
+    String titular;
+    double saldo;
+
 }
