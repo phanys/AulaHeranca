@@ -1,4 +1,13 @@
-package PACKAGE_NAME;
+public class Moto extends Veiculo{
+    private String guidao;
 
-public class Moto {
+    public Moto(String marca, String modelo, String guidao){
+        super(marca, modelo);
+        this.guidao=guidao;
+    }
+
+    public String setGuidao(){
+        return guidao;
+    }
+
 }
