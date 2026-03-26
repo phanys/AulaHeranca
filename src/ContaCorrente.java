@@ -1,5 +1,5 @@
-public class ContaPoupanca extends ContaBancaria{
+public class ContaCorrente extends ContaBancaria {
 
-    double rendimento;
+    double limiteCredito;
 
 }
